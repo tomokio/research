@@ -1,0 +1,7 @@
+*.jpg
+*.pyc
+*.DS_Store
+
+results
+cv2
+numpy
